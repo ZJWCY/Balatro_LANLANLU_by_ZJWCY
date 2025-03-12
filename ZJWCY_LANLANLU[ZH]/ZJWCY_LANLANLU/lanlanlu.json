@@ -1,0 +1,16 @@
+{
+	"id": "lanlanlu",
+	"name": "蓝蓝路",
+	"author": ["ZJWCY"],
+	"description": "蓝↗蓝↗路↑",
+	"prefix": "ZJWCY_lll",
+	"main_file": "lanlanlu.lua",
+	"badge_colour": "FF0044",
+	"badge_text_colour": "FFFF44",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+		"Balatro (>=1.0.1n-FULL)"
+	]
+}
